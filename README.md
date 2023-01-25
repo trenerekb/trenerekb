@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ruslan Gafarov from Yekaterinburg.
 - 👀 I like the python language, I do projects on it.
-- 🌱 Now I study computer networks and django.
+- 🌱 Now I study django.
 - 📫 Open to suggestions for developing interesting projects in python. 
 - 📲 My whatsapp +79089170423 
 
